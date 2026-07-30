@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Thinh Nguyen
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=iOS+%26+Flutter+Developer;Open+Source+Contributor;Mobile+App+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=iOS+%26+Flutter+Developer;Open+Source+Contributor;Mobile+App+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -24,8 +24,11 @@ I'm a passionate mobile developer from Ho Chi Minh City, Vietnam, specializing i
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## 🎧 Featured iOS App
+
+- **[AuraPlayer](https://github.com/fanta1ty/AuraPlayer)** - A dark, audiophile-focused iOS music player built with SwiftUI. Plays your own files with no streaming, accounts, or telemetry. Highlights: gapless/crossfade playback via a dual-node `AVAudioEngine` graph, a 10-band parametric EQ with live spectrum analyzer, synced `.lrc` lyrics, smart playlists, and Wi-Fi file transfer — all with zero third-party dependencies. Swift 6 · SwiftUI · iOS 26+ ⭐ 1 star
 
 ## 📱 Featured iOS Libraries
 
@@ -57,21 +60,21 @@ I'm a passionate mobile developer from Ho Chi Minh City, Vietnam, specializing i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fanta1ty&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fanta1ty&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanta1ty&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fanta1ty&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanta1ty&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fanta1ty&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fanta1ty&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=fanta1ty&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
