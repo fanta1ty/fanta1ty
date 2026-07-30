@@ -64,7 +64,7 @@ I'm a passionate mobile developer from Ho Chi Minh City, Vietnam, specializing i
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fanta1ty&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=fanta1ty&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
