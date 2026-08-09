@@ -32,7 +32,7 @@ I'm a passionate mobile developer from Ho Chi Minh City, Vietnam, specializing i
 A dark, audiophile-focused iOS music player built with SwiftUI. Plays your own files with no streaming, accounts, or telemetry.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fanta1ty/AuraPlayer/main/docs/screenshots/equalizer.png" alt="AuraPlayer Equalizer" width="280" />
+  <img src="https://raw.githubusercontent.com/fanta1ty/AuraPlayer/master/docs/screenshots/auraplayer_demo.gif" alt="AuraPlayer Demo" width="280" />
 </div>
 
 **Highlights:** gapless/crossfade playback via a dual-node `AVAudioEngine` graph, a 10-band parametric EQ with live spectrum analyzer, synced `.lrc` lyrics, smart playlists, and Wi-Fi file transfer — all with zero third-party dependencies.
